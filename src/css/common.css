@@ -16,3 +16,15 @@ img {
   display: block;
   max-width: 100%;
 }
+
+.wrapper {
+  height: 500px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+}
+.btn {
+  width: 100px;
+  height: 50px;
+}
